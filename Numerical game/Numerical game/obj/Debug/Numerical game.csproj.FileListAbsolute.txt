@@ -1,0 +1,11 @@
+C:\Users\Красотка\source\repos\Numerical game\Numerical game\bin\Debug\Numerical game.exe.config
+C:\Users\Красотка\source\repos\Numerical game\Numerical game\bin\Debug\Numerical game.exe
+C:\Users\Красотка\source\repos\Numerical game\Numerical game\bin\Debug\Numerical game.pdb
+C:\Users\Красотка\source\repos\Numerical game\Numerical game\obj\Debug\Numerical game.csproj.AssemblyReference.cache
+C:\Users\Красотка\source\repos\Numerical game\Numerical game\obj\Debug\Numerical game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Красотка\source\repos\Numerical game\Numerical game\obj\Debug\Numerical_game.Form1.resources
+C:\Users\Красотка\source\repos\Numerical game\Numerical game\obj\Debug\Numerical_game.Properties.Resources.resources
+C:\Users\Красотка\source\repos\Numerical game\Numerical game\obj\Debug\Numerical game.csproj.GenerateResource.cache
+C:\Users\Красотка\source\repos\Numerical game\Numerical game\obj\Debug\Numerical game.csproj.CoreCompileInputs.cache
+C:\Users\Красотка\source\repos\Numerical game\Numerical game\obj\Debug\Numerical game.exe
+C:\Users\Красотка\source\repos\Numerical game\Numerical game\obj\Debug\Numerical game.pdb
