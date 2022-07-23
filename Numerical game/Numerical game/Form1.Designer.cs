@@ -1,4 +1,4 @@
-﻿namespace Numerical_game
+namespace Numerical_game
 {
     partial class Form1
     {
@@ -116,6 +116,7 @@
             // 
             this.button1.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button1.Location = new System.Drawing.Point(551, 333);
             this.button1.Name = "button1";
@@ -130,6 +131,7 @@
             this.button2.BackColor = System.Drawing.Color.Red;
             this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button2.Enabled = false;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button2.Location = new System.Drawing.Point(390, 333);
             this.button2.Name = "button2";
@@ -222,6 +224,7 @@
             this.Controls.Add(this.pictureBox2);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Numerical game";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -248,4 +251,3 @@
         private System.Windows.Forms.RadioButton radioButton4;
     }
 }
-
