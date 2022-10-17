@@ -1,0 +1,11 @@
+C:\Users\Super\source\repos\Программа\Программа\bin\Debug\Программа.exe.config
+C:\Users\Super\source\repos\Программа\Программа\bin\Debug\Программа.exe
+C:\Users\Super\source\repos\Программа\Программа\bin\Debug\Программа.pdb
+C:\Users\Super\source\repos\Программа\Программа\obj\Debug\Программа.csproj.AssemblyReference.cache
+C:\Users\Super\source\repos\Программа\Программа\obj\Debug\Программа.csproj.SuggestedBindingRedirects.cache
+C:\Users\Super\source\repos\Программа\Программа\obj\Debug\Программа.Form1.resources
+C:\Users\Super\source\repos\Программа\Программа\obj\Debug\Программа.Properties.Resources.resources
+C:\Users\Super\source\repos\Программа\Программа\obj\Debug\Программа.csproj.GenerateResource.cache
+C:\Users\Super\source\repos\Программа\Программа\obj\Debug\Программа.csproj.CoreCompileInputs.cache
+C:\Users\Super\source\repos\Программа\Программа\obj\Debug\Программа.exe
+C:\Users\Super\source\repos\Программа\Программа\obj\Debug\Программа.pdb
